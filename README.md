@@ -1,5 +1,7 @@
 windows 下安装使用tensorflow
 ====
+[中文文档](http://wiki.jikexueyuan.com/project/tensorflow-zh/)<br>
+[官网地址](https://www.tensorflow.org/)
 ##基本环境：
 win10X64<br>
 [python3.5](https://www.python.org/downloads/release/python-352/)<br>
