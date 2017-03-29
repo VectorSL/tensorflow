@@ -804,7 +804,7 @@ namespace dlib
                 std::cout << "Training complete                          " << std::endl;
 			//0603修改
 			shape_predictor sp = shape_predictor(initial_shape, forests, pixel_coordinates);
-			serialize("E:\\shi\\face_recognition\\300VW_data\\blender_eye3.dat") << sp;
+			serialize("E:\\shi\\face_recognition\\300VW_data\\blender40.dat") << sp;
             //return shape_predictor(initial_shape, forests, pixel_coordinates);
         }
 
